@@ -1,5 +1,3 @@
-# formulario
-formulario feito com bootstrap
 <!DOCTYPE html>
 <html lang="pt_br">
 
